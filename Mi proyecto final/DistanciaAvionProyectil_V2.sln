@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistanciaAvionProyectil_V2", "DistanciaAvionProyectil_V2\DistanciaAvionProyectil_V2.csproj", "{D504B0C9-C4BE-4174-B7E6-53DE87C3CE8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D504B0C9-C4BE-4174-B7E6-53DE87C3CE8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D504B0C9-C4BE-4174-B7E6-53DE87C3CE8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D504B0C9-C4BE-4174-B7E6-53DE87C3CE8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D504B0C9-C4BE-4174-B7E6-53DE87C3CE8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {230C6306-A3C9-4BE9-A193-5BA8E44C0376}
+	EndGlobalSection
+EndGlobal

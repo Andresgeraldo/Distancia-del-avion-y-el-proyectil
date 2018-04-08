@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\DistanciaAvionProyectil_V2\DistanciaAvionProyectil_V2\bin\Debug\DistanciaAvionProyectil_V2.exe.config
+C:\Users\Usuario\source\repos\DistanciaAvionProyectil_V2\DistanciaAvionProyectil_V2\bin\Debug\DistanciaAvionProyectil_V2.exe
+C:\Users\Usuario\source\repos\DistanciaAvionProyectil_V2\DistanciaAvionProyectil_V2\bin\Debug\DistanciaAvionProyectil_V2.pdb
+C:\Users\Usuario\source\repos\DistanciaAvionProyectil_V2\DistanciaAvionProyectil_V2\obj\Debug\DistanciaAvionProyectil_V2.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\source\repos\DistanciaAvionProyectil_V2\DistanciaAvionProyectil_V2\obj\Debug\DistanciaAvionProyectil_V2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\DistanciaAvionProyectil_V2\DistanciaAvionProyectil_V2\obj\Debug\DistanciaAvionProyectil_V2.exe
+C:\Users\Usuario\source\repos\DistanciaAvionProyectil_V2\DistanciaAvionProyectil_V2\obj\Debug\DistanciaAvionProyectil_V2.pdb
+C:\Users\Usuario\Desktop\DistanciaAvionProyectil_V2\DistanciaAvionProyectil_V2\bin\Debug\DistanciaAvionProyectil_V2.exe.config
+C:\Users\Usuario\Desktop\DistanciaAvionProyectil_V2\DistanciaAvionProyectil_V2\bin\Debug\DistanciaAvionProyectil_V2.exe
+C:\Users\Usuario\Desktop\DistanciaAvionProyectil_V2\DistanciaAvionProyectil_V2\bin\Debug\DistanciaAvionProyectil_V2.pdb
+C:\Users\Usuario\Desktop\DistanciaAvionProyectil_V2\DistanciaAvionProyectil_V2\obj\Debug\DistanciaAvionProyectil_V2.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\DistanciaAvionProyectil_V2\DistanciaAvionProyectil_V2\obj\Debug\DistanciaAvionProyectil_V2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\DistanciaAvionProyectil_V2\DistanciaAvionProyectil_V2\obj\Debug\DistanciaAvionProyectil_V2.exe
+C:\Users\Usuario\Desktop\DistanciaAvionProyectil_V2\DistanciaAvionProyectil_V2\obj\Debug\DistanciaAvionProyectil_V2.pdb
